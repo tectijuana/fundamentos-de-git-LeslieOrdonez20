@@ -2,6 +2,8 @@
 
 ## 🤓 Course overview and learning outcomes 
 ![image](https://user-images.githubusercontent.com/124218233/219229525-93662044-0163-4942-b9e2-8a1dc5031c78.png)
+## A1.6  SCP, SSH y WGET
+![SCP, SSH y WGET_Ordoñez](https://user-images.githubusercontent.com/124218233/225777254-a83cbda2-4d3d-4e08-a5a7-2cd0da167a31.png)
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
